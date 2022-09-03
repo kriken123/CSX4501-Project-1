@@ -1,4 +1,15 @@
 # CSX4501-Project-1
+
+An introduction of your research question:
+
+Diamond prices are based on many attributes. This project will explore which attribute contributes most to the price of diamonds.
+This topic is of particular interest to me for shallow reasons.  I've always wanted a diamond. 
+Diamonds are still the choice stone for most engagement rings and the demand is not slowing even as prices are rising.
+In an ideal world if we could have a calculator that predicts the price of the diamond based on the 4C's that would be great.  However, realistically there are too many factors that are objective and hard to quantify (e.g. cut). 
+I expect to at the very least determine what attribute contributes to diamond price.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kriken123/CSX4501-Project-1/HEAD)
+-------------------------------------------------
 Project 1
 An introduction of research question -- 
 A question of how different foods impact blood glucose in diabetics.
